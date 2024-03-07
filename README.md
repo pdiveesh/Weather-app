@@ -36,11 +36,3 @@ The weather app supports:
 🔄 Responsive design working on mobile & desktop layouts
 
 🤩 Attractive, accessible, and user-friendly interface
-
-Customizations
-Some ideas for ways to expand on the tutorial:
-
-🌎 Add a feature to automatically detect user's location
-🔮 Show a 5-day forecast instead of only current weather
-♿️ Improve accessibility features for screen reader users
-☔️ Add toggle between Fahrenheit and Celsius
